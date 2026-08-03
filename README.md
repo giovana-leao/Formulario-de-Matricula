@@ -1,6 +1,15 @@
 # Formulário de Matrícula 📝
 
 Este projeto é um exercício prático desenvolvido durante a minha formação Full-Stack. O objetivo principal foi aplicar conceitos fundamentais de estruturação e estilização web através da construção de um formulário visualmente agradável.
+## 📸 Pré-Visualização do Projeto
+
+<p align="center">
+  <img src="../../Outros/HTML Forms/assets/Print-form1.png" alt="Topo do Formulário de Matrícula" width="700">
+</p>
+
+<p align="center">
+  <img src="../../Outros/HTML Forms/assets/Print-form2.png" alt="Final do Formulário de Matrícula" width="700">
+</p>
 
 > **Nota:** Este é um projeto estático (focado no Front-End). O formulário não realiza o registro em banco de dados ou envio real de informações.
 
